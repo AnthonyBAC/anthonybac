@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnthonyBAC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Anthony Bryan A.
 
 ## Me
 
@@ -13,6 +11,10 @@ Additionally, I am passionate about learning and working with other programming 
 ## Goals
 
 My main goal is to become a full stack developer. As a secondary goal, I would love to enter the field of data analysis and data science. Although it is quite a different area, I have gained autonomous experience in this field through courses and personal projects, and I would like to deepen my knowledge and continue exploring it further.
+
+## Top programming languages I use
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnthonyBAC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AnthonyBAC/anthonybac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
