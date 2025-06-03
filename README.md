@@ -12,6 +12,10 @@ Additionally, I am passionate about learning and working with other programming 
 
 My main goal is to become a full stack developer. As a secondary goal, I would love to enter the field of data analysis and data science. Although it is quite a different area, I have gained autonomous experience in this field through courses and personal projects, and I would like to deepen my knowledge and continue exploring it further.
 
+## Interests
+
+There are several areas that I am passionate about and that motivate me to keep learning and growing professionally. One of these is working with efficient and versatile operating systems, which is why I currently use Linux. This environment allows me to develop my technical skills and tackle complex challenges with a logical and creative approach. Additionally, I enjoy experimenting with new technologies, exploring different programming languages.
+
 ## Top programming languages I use
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnthonyBAC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
