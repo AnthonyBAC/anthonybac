@@ -18,7 +18,7 @@ There are several areas that I am passionate about and that motivate me to keep 
 
 ## Top programming languages I use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBAC&layout=compact&theme=transparent)
 [![AnthonyBAC](https://github-readme-stats.vercel.app/api?username=AnthonyBAC&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AnthonyBAC/anthonybac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
