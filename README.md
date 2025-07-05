@@ -16,7 +16,7 @@ My main goal is to become a full stack developer. As a secondary goal, I would l
 
 There are several areas that I am passionate about and that motivate me to keep learning and growing professionally. One of these is working with efficient and versatile operating systems, which is why I currently use Linux. This environment allows me to develop my technical skills and tackle complex challenges with a logical and creative approach. Additionally, I enjoy experimenting with new technologies, exploring different programming languages.
 
-## Top programming languages I use
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBAC&layout=compact&theme=transparent)<br>
 [![AnthonyBAC](https://github-readme-stats.vercel.app/api?username=AnthonyBAC&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
